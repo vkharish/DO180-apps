@@ -1,0 +1,9 @@
+total 4
+drwxrwxr-x. 2 student student 23 Aug  1 13:46 example
+drwxrwxr-x. 2 student student 43 Aug  1 13:46 nodejs-app
+drwxrwxr-x. 2 student student 40 Aug  1 13:46 nodejs-helloworld
+drwxrwxr-x. 2 student student 23 Aug  1 13:46 php-helloworld
+-rw-rw-r--. 1 student student 54 Aug  1 13:46 README.md
+drwxrwxr-x. 2 student student 23 Aug  1 13:46 temps
+-rw-rw-r--. 1 student student  0 Aug  1 13:52 test_files
+drwxrwxr-x. 5 student student 51 Aug  1 13:46 todoapp
